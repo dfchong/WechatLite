@@ -1,0 +1,5 @@
+<view class="zan-loadmore zan-loadmore--nomore">
+  <view class="zan-loadmore__tips">
+      <view class="zan-c-gray-dark"> Copyright © 2015-2019 </view>
+  </view>
+</view>
